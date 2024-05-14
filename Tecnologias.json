@@ -1,0 +1,14 @@
+[
+  {
+    "palavra": "html",
+    "dica": "serve para estruturar paginas web."
+  },
+  {
+    "palavra": "css",
+    "dica": "serve para estilizar páginas web"
+  },
+  {
+    "palavra": "javascript",
+    "dica": "serve para adicionar dinamismo parapaginas web"
+  }
+]
