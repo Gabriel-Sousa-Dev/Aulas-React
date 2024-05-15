@@ -1,14 +1,32 @@
 [
   {
     "palavra": "html",
-    "dica": "serve para estruturar paginas web."
+    "dica": "serve para estruturar paginas web.",
+    "icone": "https://cdn.simpleicons.org/html5"
   },
   {
     "palavra": "css",
-    "dica": "serve para estilizar páginas web"
+    "dica": "serve para estilizar páginas web",
+    "icone": "https://cdn.simpleicons.org/css3"
   },
   {
     "palavra": "javascript",
-    "dica": "serve para adicionar dinamismo parapaginas web"
+    "dica": "serve para adicionar dinamismo parapaginas web",
+    "icone": "https://cdn.simpleicons.org/javascript"
+  },
+  {
+    "palavra": "laravel",
+    "dica": "framework fullstack/back-end php mais usado para artesãos da web",
+    "icone": "https://cdn.simpleicons.org/laravel"
+  },
+  {
+    "palavra": "react",
+    "dica": "SPA de javascript mais utilizada para criação de interfaces reativas e dinâmicas",
+    "icone": "https://cdn.simpleicons.org/react"
+  },
+  {
+    "palavra": "dotenv",
+    "dica": "serve para proteger dados sensíveis e definir variáveis de ambiente",
+    "icone": "https://cdn.simpleicons.org/dotenv"
   }
 ]
