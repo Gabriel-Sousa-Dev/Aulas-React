@@ -1,0 +1,75 @@
+[
+  {
+    "id": "3w-hECDDHPU",
+    "titulo": "O que é Markdown? Veja o que é, como funciona na prática e muito mais",
+    "autor": "Produtive.M",
+    "thumbnail": "https://img.youtube.com/vi/3w-hECDDHPU/maxresdefault.jpg"
+  },
+  {
+    "id": "69-WfrVBli8",
+    "titulo": "TELA DE LOGIN COM TEMA DARK | HTML + CSS",
+    "autor": "Markzuel",
+    "thumbnail": "https://img.youtube.com/vi/69-WfrVBli8/maxresdefault.jpg"
+  },
+  {
+    "id": "oPOKpSFqy-I",
+    "titulo": "Crie componentes desta forma no React (Composition Pattern)",
+    "autor": "Rocketseat",
+    "thumbnail": "https://img.youtube.com/vi/oPOKpSFqy-I/maxresdefault.jpg"
+  },
+  {
+    "id": "MQs8_KIj_PU",
+    "titulo": "O que são Testes Unitários e como implementar em JavaScript?",
+    "autor": "DevPleno",
+    "thumbnail": "https://img.youtube.com/vi/MQs8_KIj_PU/maxresdefault.jpg"
+  },
+  {
+    "id": "qxoMNzpI_2A",
+    "titulo": "Aprenda Lua em 20 minutos!",
+    "autor": "Luaverse",
+    "thumbnail": "https://img.youtube.com/vi/qxoMNzpI_2A/maxresdefault.jpg"
+  },
+  {
+    "id": "Y8tP1jbRYHY",
+    "titulo": "Primeiros passos no React Native - Aula 1 | Curso React Native (aprendiz) | Onebitcode",
+    "autor": "One Bit Code",
+    "thumbnail": "https://img.youtube.com/vi/Y8tP1jbRYHY/maxresdefault.jpg"
+  },
+  {
+    "id": "3uPIFItnrcg",
+    "titulo": "A Software Tester Walks Into a Bar (Animation)",
+    "autor": "PixelzwithaZ",
+    "thumbnail": "https://img.youtube.com/vi/3uPIFItnrcg/maxresdefault.jpg"
+  },
+  {
+    "id": "4BxrxiMMjcA",
+    "titulo": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
+    "autor": "Mario Souto - Dev Soutinho",
+    "thumbnail": "https://img.youtube.com/vi/4BxrxiMMjcA/maxresdefault.jpg"
+  },
+  {
+    "id": "d2uqo6PhdM4",
+    "titulo": "Aprenda tudo sobre RegEx em menos de 10 minutos! Com exemplos práticos!",
+    "autor": "CódigoEscola",
+    "thumbnail": "https://img.youtube.com/vi/d2uqo6PhdM4/maxresdefault.jpg"
+  },
+  {
+    "id": "tFMD5WM4FQ8",
+    "titulo": "10 PROJETOS PARA PRATICAR PROGRAMAÇÃO E ADICIONAR NO PORTFÓLIO",
+    "autor": "gabcodes",
+    "thumbnail": "https://img.youtube.com/vi/tFMD5WM4FQ8/maxresdefault.jpg"
+  },
+  {
+    "id": "aUN0j5Q9quQ",
+    "titulo": "Seu servidor PHP no Linux - @CursoemVideo de PHP - Gustavo Guanabara",
+    "autor": "Curso em Vídeo",
+    "thumbnail": "https://img.youtube.com/vi/aUN0j5Q9quQ/maxresdefault.jpg"
+  },
+  {
+    "id": "vGuqKIRWosk",
+    "titulo": "API // Dicionário do Programador",
+    "autor": "Código Fonte TV",
+    "thumbnail": "https://img.youtube.com/vi/vGuqKIRWosk/maxresdefault.jpg"
+  }
+  
+]
